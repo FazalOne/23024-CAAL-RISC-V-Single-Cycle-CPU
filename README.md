@@ -1,32 +1,34 @@
 # RISC-V Single Cycle CPU
 
-![Cover Image](cover.jpg)
+This is an in-class lab assignment for my course 
 
----
-
-![Result Image](result.jpg)
-
-## Usage
-
-### Display Bad Apple Video
+### Q1 Display Name and ID saved in Data Memory on TTY
 
 0. Make sure [java](https://www.java.com/en/) is installed.
 
 1. Run `logisim-evolution.jar` using Java.
 
-2. Open `32b_single_cycle_cpu.circ` or `32b_single_cycle_cpu_single_page.circ` in Logisim.
+2. Open `q1 32b_single_cycle_cpu_single_page.circ` in Logisim.
 
 3. Load IMEM and DMEM to the corresponding memory modules. 
 
-4. Enable clock.
+4. Enable simulation at 1hz frequency.
 
-### Assemble your own program
+### Q1 Display Name and ID saved in Data Memory on TTY
 
-Please try the [Mercury](https://github.com/T-K-233/mercury) assembler
+0. Make sure [java](https://www.java.com/en/) is installed.
 
-## Notes
+1. Run `logisim-evolution.jar` using Java.
 
-- Single page version can achieve ~300 Hz clock rate on a i7-6700K computer.
+2. Open `q1 32b_single_cycle_cpu_single_page.circ` in Logisim.
+
+3. Load IMEM and DMEM to the corresponding memory modules. 
+
+4. Enable simulation at 1hz frequency.
+
+### Acknowledgement
+
+This code is forked from @-T-K-233 Github https://github.com/T-K-233/RISC-V-Single-Cycle-CPU
 
 ## Terms and Conditions
 
