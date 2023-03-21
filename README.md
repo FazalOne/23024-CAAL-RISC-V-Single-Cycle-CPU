@@ -18,11 +18,11 @@ This is an in-class lab assignment for my Computer Architecture and Assembly Lan
 
 Before:
 
-q2%20before.jpg
+[q2%20before.jpg](https://github.com/FazalOne/23024-CAAL-RISC-V-Single-Cycle-CPU/blob/master/q2%20before.jpg)
 
 After: 
 
-q2%20after.jpg
+[q2%20after.jpg](https://github.com/FazalOne/23024-CAAL-RISC-V-Single-Cycle-CPU/blob/master/q2%20after.jpg)
 
 ### Acknowledgements
 
