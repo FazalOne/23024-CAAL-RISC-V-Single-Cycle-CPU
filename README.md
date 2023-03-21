@@ -1,6 +1,6 @@
 # RISC-V Single Cycle CPU
 
-This is an in-class lab assignment for my course 
+This is an in-class lab assignment for my Computer Architecture and Assembly Language course at the IBA-Karachi.
 
 ### Q1 Display Name and ID saved in Data Memory on TTY
 
@@ -14,21 +14,19 @@ This is an in-class lab assignment for my course
 
 4. Enable simulation at 1hz frequency.
 
-### Q1 Display Name and ID saved in Data Memory on TTY
+### Q2 Convert XOR, OR and AND gates in the ALU to NAND
 
-0. Make sure [java](https://www.java.com/en/) is installed.
+Before:
 
-1. Run `logisim-evolution.jar` using Java.
+q2%20before.jpg
 
-2. Open `q1 32b_single_cycle_cpu_single_page.circ` in Logisim.
+After: 
 
-3. Load IMEM and DMEM to the corresponding memory modules. 
+q2%20after.jpg
 
-4. Enable simulation at 1hz frequency.
+### Acknowledgements
 
-### Acknowledgement
-
-This code is forked from @-T-K-233 Github https://github.com/T-K-233/RISC-V-Single-Cycle-CPU
+This code is forked from @-T-K-233 Github Repo at https://github.com/T-K-233/RISC-V-Single-Cycle-CPU
 
 ## Terms and Conditions
 
