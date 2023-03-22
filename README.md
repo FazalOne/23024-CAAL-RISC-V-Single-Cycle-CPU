@@ -8,11 +8,11 @@ This is an in-class lab assignment for my Computer Architecture and Assembly Lan
 
 1. Run `logisim-evolution.jar` using Java.
 
-2. Open `q1 32b_single_cycle_cpu_single_page.circ` in Logisim.
+2. Open `q1 32b_single_cycle_cpu_single_page.circ` in `logisim-evolution`.
 
-3. Load IMEM and DMEM to the corresponding memory modules. 
+3. Load `IMEM` and `DMEM` to the corresponding memory modules in `logisim-evolution`. 
 
-4. Enable simulation at 1hz frequency.
+4. Enable simulation at 1hz tick frequency.
 
 ### Q2 Convert XOR, OR and AND gates in the ALU to NAND
 
