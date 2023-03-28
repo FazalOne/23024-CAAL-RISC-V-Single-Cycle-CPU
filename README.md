@@ -24,6 +24,8 @@ After:
 
 ![q2%20after.jpg](https://github.com/FazalOne/23024-CAAL-RISC-V-Single-Cycle-CPU/blob/master/q2%20after.jpg)
 
+### Q3 Convert 32-bit DMEM into 16-bit DMEM
+
 ### Acknowledgements
 
 This code is forked from @-T-K-233 Github Repo at https://github.com/T-K-233/RISC-V-Single-Cycle-CPU
